@@ -7,7 +7,12 @@ A cross-platform **Python-based virtual assistant** that automates desktop tasks
 ## 🛠️ Presentation
 
        https://github.com/user-attachments/assets/5f33b0d6-ad6f-4038-b4c9-066f5f058558
+
   
+
+https://github.com/user-attachments/assets/071ccd2a-0507-4114-8d45-923f1af4e442
+
+
 ----------------------------------------------------------------------------------------------
 
 ## 🚀 Features
